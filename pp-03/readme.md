@@ -1,6 +1,6 @@
 ## ITMD 361, Production Problem 03: CSS Flexbox
 
-First, go and play the Flexbox Froggy game at https://flexboxfroggy.com/.
+First, go and play the Flexbox Froggy game at 
 
 Then, use CSS Flexbox (refer to https://css-tricks.com/snippets/css/a-guide-to-flexbox/ as well as the
 flexbox documentation at Mozilla Developer Network, MDN) in the `screen.css` file in the `pp-03/`
