@@ -51,5 +51,11 @@ height: 100vw;
 }
 
 @media screen and (min-width: 800px) {
+  #three,
+  #two,
+  #one {
+    flex: 1 0 33%;
+    height: 33vw;
 
+  }
 }
