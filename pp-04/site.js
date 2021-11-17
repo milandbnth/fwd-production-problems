@@ -7,11 +7,12 @@
 x = 5;
 
 function double(num) {
-  x = num * 2;
+ var x = num * 2;
   return x;
 }
 
 double(6);
+
 console.log('The value of x is', x, '-- it should be 5.');
 
 /*
