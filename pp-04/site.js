@@ -44,8 +44,9 @@ x = 5;
 
 var newFunc = {
   double: function double(num) {
-    if (isNaN(num))
-      console.log("You have entered: " + num + " which is not a number");
+    if (isNaN(num)) {
+      console.log("You have entered: " + num + " which is not a number") 
+      return;}
     var x = num * 2;
   return x;
 } };
